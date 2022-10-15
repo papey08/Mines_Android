@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mines</string>
+    <string name="play">PLAY</string>
+    <string name="mines">Mines!!</string>
+    <string name="x">X</string>
+    <string name="click_the_cell">CLICK THE CELL!!</string>
+    <string name="enter_amount_of_mines_0_amount_49"><![CDATA[Enter amount of mines (0 < amount < 49)]]></string>
+    <string name="enter_amount_of_mines_from_6_to_12">Enter amount of mines (from 6 to 12)</string>
+    <string name="choose_amount_of_mines">Choose amount of mines</string>
+    <string name="_6">6</string>
+</resources>
