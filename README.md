@@ -32,3 +32,16 @@
 * [основное меню](https://github.com/papey08/Mines/blob/main/app/src/main/res/layout/activity_main.xml)
 * [меню выбора количества мин](https://github.com/papey08/Mines/blob/main/app/src/main/res/layout/amount_activity.xml)
 * [игровое activity](https://github.com/papey08/Mines/blob/main/app/src/main/res/layout/game_activity.xml)
+
+## Скриншоты
+
+![image](https://user-images.githubusercontent.com/81183518/195999264-cb4ae27c-073c-4c74-9eb1-a8b610829ae4.png)
+
+![image](https://user-images.githubusercontent.com/81183518/195999273-5d67e505-a780-4777-9ee5-8d2a2e7f1018.png)
+
+![image](https://user-images.githubusercontent.com/81183518/195999295-dc5baadf-387e-480f-ad5b-4da6053e3f91.png)
+
+![image](https://user-images.githubusercontent.com/81183518/195999323-86035b88-0199-4468-9858-1b43941159d7.png)
+
+![image](https://user-images.githubusercontent.com/81183518/195999376-a860d91c-7364-41fd-83a1-289d5d297406.png)
+
